@@ -27,16 +27,16 @@
               "src/assets"
             ],
             "styles": [
-              "css/bootstrap.min.css",
-              "css/font-awesome.min.css",
-              "css/style.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/css/style.css",
               "src/styles.scss"
             ],
             "scripts": [
-              "assets/js/jquery.min.js",
-              "assets/js/bootstrap.min.js",
-              "assets/js/jquery.stellar.min.js",
-              "assets/js/main.js"
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/jquery.stellar.min.js",
+              "src/assets/js/main.js"
             ]
           },
           "configurations": {
